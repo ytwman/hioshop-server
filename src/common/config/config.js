@@ -2,8 +2,8 @@
 module.exports = {
     default_module: 'api',
     weixin: {
-        appid: 'wx953588701e2da399', // 小程序 appid
-        secret: 'cc23746bb51a4fc3a727fabf62a291d8', // 小程序密钥
+        appid: 'wx0c84e00540f10308', // 小程序 appid
+        secret: 'd39f6791b271181a292274fdaadcd88b', // 小程序密钥
         mch_id: '15988888888', // 商户帐号ID
         partner_key: 'asdasdasdasdasdasdasd', // 微信支付密钥
         notify_url: 'https://wx.liancon.cn/api/pay/notify' // 微信支付异步通知
