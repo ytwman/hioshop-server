@@ -5,7 +5,7 @@ module.exports = {
         appid: 'wx0c84e00540f10308', // 小程序 appid
         secret: 'd39f6791b271181a292274fdaadcd88b', // 小程序密钥
         mch_id: '15988888888', // 商户帐号ID
-        partner_key: 'asdasdasdasdasdasdasd', // 微信支付密钥
+        partner_key: 'jTTGvNCWDW4jBG0lGJOwGMQzosVMVMwP', // 微信支付密钥
         notify_url: 'https://wx.liancon.cn/api/pay/notify' // 微信支付异步通知
     },
     express: {
